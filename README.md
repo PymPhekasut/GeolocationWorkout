@@ -1,5 +1,5 @@
 # GeolocationWorkout
-Using JavaScript  and Geolocation to create web application to pin user's location where they go for running or cycling and collect data using window local storage
+Using JavaScript  and leaflet to create web application to pin user's location where they go for running or cycling and collect data using window local storage
 
 Features contain following functions:
 
