@@ -12,6 +12,8 @@ Features contain following functions:
 6. Moving map to workout location when user click
 7. Using local stotage to load workout list
 
+
+
 ![geolocation](https://user-images.githubusercontent.com/74609915/130976359-2d7e030b-32b1-44fe-8566-bc62575d2572.PNG)
 
 
